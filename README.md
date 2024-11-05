@@ -6,7 +6,6 @@ Hello! I'm Samip Panthi, a budding software developer with a strong interest in 
 ## 🌱 Skills & Interests
 - **Languages:** JavaScript, Python
 - **Web Development:** HTML, CSS, Tailwind CSS
-- 
 ## 🛠️ Skills and Experience
 - **JavaScript:** Basic level, using it to solve coding challenges and build interactive web applications.
 - **Web Development with Tailwind CSS:** Creating responsive, visually appealing layouts with Tailwind CSS.
